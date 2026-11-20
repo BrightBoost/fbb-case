@@ -1,0 +1,24 @@
+row,section,item,unweighted_2025-12-31,unweighted_2026-03-31,unweighted_2026-06-30,unweighted_2026-09-30,weighted_2025-12-31,weighted_2026-03-31,weighted_2026-06-30,weighted_2026-09-30
+1,High-quality liquid assets,Total high-quality liquid assets (HQLA),,,,,12030,11880,12260,12450
+2,Cash outflows,"Retail deposits and deposits from small business customers, of which:",30250,30550,30900,31200,2065,2088,2110,2130
+3,Cash outflows,Stable deposits,19200,19350,19600,19800,960,968,980,990
+4,Cash outflows,Less stable deposits,11050,11200,11300,11400,1105,1120,1130,1140
+5,Cash outflows,"Unsecured wholesale funding, of which:",13360,13650,13180,13020,5312,5485,5190,5080
+6,Cash outflows,Operational deposits (all counterparties) and deposits in networks of cooperative banks,4450,4500,4520,4600,1112,1125,1130,1150
+7,Cash outflows,Non-operational deposits (all counterparties),8300,8450,8100,7900,3590,3660,3500,3410
+8,Cash outflows,Unsecured debt,610,700,560,520,610,700,560,520
+9,Cash outflows,Secured wholesale funding,,,,,150,165,145,140
+10,Cash outflows,"Additional requirements, of which:",6290,6390,6450,6510,1140,1200,1170,1190
+11,Cash outflows,Outflows related to derivative exposures and other collateral requirements,290,340,300,310,290,340,300,310
+12,Cash outflows,Outflows related to loss of funding on debt products,0,0,0,0,0,0,0,0
+13,Cash outflows,Credit and liquidity facilities,6000,6050,6150,6200,850,860,870,880
+14,Cash outflows,Other contractual funding obligations,240,250,255,260,210,220,225,230
+15,Cash outflows,Other contingent funding obligations,3800,3820,3880,3900,190,191,194,195
+16,Cash outflows,TOTAL CASH OUTFLOWS,,,,,9067,9349,9034,8965
+17,Cash inflows,Secured lending (e.g. reverse repos),400,380,410,420,55,50,58,60
+18,Cash inflows,Inflows from fully performing exposures,1780,1720,1840,1880,1090,1040,1120,1150
+19,Cash inflows,Other cash inflows,390,370,400,410,205,190,210,220
+20,Cash inflows,TOTAL CASH INFLOWS,2570,2470,2650,2710,1350,1280,1388,1430
+21,Total adjusted value,"LIQUIDITY BUFFER (total HQLA, adjusted value)",,,,,12030,11880,12260,12450
+22,Total adjusted value,TOTAL NET CASH OUTFLOWS,,,,,7717,8069,7646,7535
+23,Total adjusted value,LIQUIDITY COVERAGE RATIO (%),,,,,155.9,147.2,160.3,165.2
